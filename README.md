@@ -46,7 +46,7 @@ I am a **Cybersecurity Specialist & Computer Scientist** based in **Boston, MA**
 
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberCoder-IITM&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CyberCoder-IITM&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
