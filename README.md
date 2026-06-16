@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+BU+MSCS+2026;Kafka+Pipelines+at+50K%2B+Events%2FMin;Rust+%7C+Python+%7C+Java+%7C+TypeScript;IEEE+Published+%7C+Open+to+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+there!+%F0%9F%91%8B+I'm+Saleeq+Adnan+Syed;Software+Engineer+%7C+BU+MSCS+2026;Kafka+Pipelines+at+50K%2B+Events%2FMin;Rust+%7C+Python+%7C+Java+%7C+TypeScript;IEEE+Published+%7C+Open+to+Work" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberCoder-IITM&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -47,14 +47,19 @@ Software Engineer, MSCS Boston University Jan 2026. I build distributed systems,
 
 ---
 
-### 🛠️ Stack
+<h3 align="center">🛠️ Stack</h3>
 
-![](https://skillicons.dev/icons?i=java,python,ts,rust,js,bash,react,nodejs,fastapi,spring)
-![](https://skillicons.dev/icons?i=kafka,docker,kubernetes,aws,postgres,mongodb,git,linux,github,grafana)
+<div align="center">
+
+| Languages | Frameworks | Infrastructure | Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,python,ts,rust,js,bash" /> | <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,spring" /> | <img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,aws,postgres,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,linux,github,grafana" /> |
+
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=CyberCoder-IITM&theme=tokyonight&hide_border=true" />
